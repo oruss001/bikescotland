@@ -1,0 +1,18 @@
+body{
+    background-color:#5d6b47;
+    text-align: center;
+
+}
+
+.bgDark{
+    background-color:#505c3d;
+}
+
+a{
+    color: #282e1f;
+    font-size: 20;
+    font-family: fantasy
+}
+a:hover{
+    color:aliceblue
+}
